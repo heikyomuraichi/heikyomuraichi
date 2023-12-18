@@ -1,4 +1,5 @@
-### Hi there 👋
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heikyomuraichi&count_private=true&theme=neon)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=heikyomuraichi)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=heikyomuraichi)](https://github.com/heikyomuraichi/github-profile-trophy)
 
